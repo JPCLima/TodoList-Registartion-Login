@@ -23,8 +23,6 @@ The application is built using the following technologies:
 
 ## Setup Instructions
 
-## Getting Started
-
 To get started with the Delights-Inventory project, follow these instructions:
 
 1. Clone the repository:
