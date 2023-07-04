@@ -1,8 +1,8 @@
 # TodoList-Registration-Login
 
-![](assets/demo.gif)
-
 This is a web application built with Django, HTML, and CSS, allowing users to create and manage their to-do lists. The application provides features such as user registration, login, and CRUD (Create, Read, Update, Delete) operations for tasks.
+
+![](assets/demo.gif)
 
 ## Features
 
